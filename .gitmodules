@@ -30,3 +30,11 @@
 	path = bundle/ack
 	url = git@github.com:mileszs/ack.vim.git
   ignore = dirty
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = git@github.com:kchmck/vim-coffee-script.git
+  ignore = dirty
+[submodule "bundle/vim-cucumber"]
+	path = bundle/vim-cucumber
+	url = git@github.com:tpope/vim-cucumber.git
+  ignore = dirty
