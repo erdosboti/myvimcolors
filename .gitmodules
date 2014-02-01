@@ -38,3 +38,7 @@
 	path = bundle/vim-cucumber
 	url = git@github.com:tpope/vim-cucumber.git
   ignore = dirty
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
+  ignore = dirty
