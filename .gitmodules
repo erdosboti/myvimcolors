@@ -42,3 +42,7 @@
 	path = bundle/delimitMate
 	url = git@github.com:Raimondi/delimitMate.git
   ignore = dirty
+[submodule "bundle/scss-syntax"]
+	path = bundle/scss-syntax
+	url = git@github.com:cakebaker/scss-syntax.vim.git
+  ignore = dirty
